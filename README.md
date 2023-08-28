@@ -21,7 +21,9 @@ We intend to tell stories, profiling historical and contemporary artists by adap
 We hope to educate, act ethically, inspire, ask questions, and learn from one another while we shape a world where the preservation of intellectual property and transparency coexist in the creative field and within society as a whole as we experience this inevitable yet exciting change.
 
 Sneak Preview of work:
-
-![Slice 1](https://github.com/Endles-wip/Endless.WIP/assets/142446284/2fcc0057-8fd2-4ed9-ae38-42e93747aca8)
-![Slice 1](https://github.com/Endles-wip/Endless.WIP/assets/142446284/e1fdda79-51d5-47b6-a2dc-8648f33802d5)
-
+![Slice 1](https://github.com/Endles-wip/Endless.WIP/assets/142446284/c9142caa-6cb5-4bb0-94bd-cae5d20df282)
+![Slice 2](https://github.com/Endles-wip/Endless.WIP/assets/142446284/6fc19b7e-cb9b-48dc-ada4-0abbac924cd0)
+![Slice 3](https://github.com/Endles-wip/Endless.WIP/assets/142446284/48ce0236-9778-4053-a2e9-cedbe32c1232)
+![Slice 5](https://github.com/Endles-wip/Endless.WIP/assets/142446284/c70e245f-2fd5-481a-a98e-0744b8031a84)
+![Slice 6](https://github.com/Endles-wip/Endless.WIP/assets/142446284/c023ba23-e110-40f0-b5aa-064a824774cb)
+![Slice 5](https://github.com/Endles-wip/Endless.WIP/assets/142446284/ce07c60c-2084-40e0-8c80-1f08ef3bf36a)
